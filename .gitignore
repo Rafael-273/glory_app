@@ -39,3 +39,4 @@ electron/dist/
 
 # Arquivos específicos do sistema de arquivos
 *.log
+node_modules/
